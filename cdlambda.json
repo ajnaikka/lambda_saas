@@ -1,0 +1,8 @@
+{
+    "FunctionName": "update_addons", 
+    "StatementId": "1", 
+    "Action": "lambda:InvokeFunction", 
+    "Principal": "codecommit.amazonaws.com", 
+    "SourceArn": "arn:aws:codecommit:ap-south-1:093407068366:*", 
+    "SourceAccount": "093407068366"
+}
